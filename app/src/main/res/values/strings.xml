@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TherapieApp</string>
+    <string name="notification_channel_reminders">Erinnerungen</string>
+    <string name="notification_channel_reminders_desc">Tägliche Erinnerungen für Mood-Tracking, Journal und Übungen</string>
+</resources>

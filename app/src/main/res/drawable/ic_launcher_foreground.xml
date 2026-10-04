@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Heart-Symbol als App-Icon (passt zum Therapie-Thema) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,76 C54,76 26,58 26,42 C26,32 33,28 39,28 C45,28 50,32 54,38 C58,32 63,28 69,28 C75,28 82,32 82,42 C82,58 54,76 54,76 Z"/>
+</vector>
